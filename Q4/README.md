@@ -1,7 +1,7 @@
 # Supply Chain Analytics: Correlation Matrix Visualization
 
 **Author:** 24f1001434@ds.study.iitm.ac.in  
-**Organization:** OptimalFlow Logistics  
+**Organization:** OptimalFlow Logistic
 
 ---
 
